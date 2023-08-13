@@ -3,4 +3,5 @@
 Notebook do código fonte utilzado no projeto de "PREVISÃO DE DETECÇÃO DE FRAUDES EM TRANSAÇÕES FINANCEIRAS UTILIZANDO INTELIGÊNCIA ARTIFICIAL".
 
 Este notebook se refere a entrega da Etapa A do Projeto Integrado.
+
 A etapa B será atualizado ao notebook posteriormente.
